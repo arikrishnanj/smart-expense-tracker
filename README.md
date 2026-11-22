@@ -27,4 +27,4 @@ A responsive web app to track daily expenses, budget and balance with charts usi
 **Arikrishnan J**
 📞 8072655048
 ✉️ jarikrishnan@gmail.com
-🔗 linkedin.com/in/arikrishnan-j
+🔗 http://www.linkedin.com/in/arikrishnan-j
